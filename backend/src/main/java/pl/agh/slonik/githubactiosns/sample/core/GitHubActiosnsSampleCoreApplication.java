@@ -11,7 +11,7 @@ public class GitHubActiosnsSampleCoreApplication {
         SpringApplication.run(GitHubActiosnsSampleCoreApplication.class, args);
 
         Student student =  new Student("Kuba","Nowakowski","cokowlwiek");
-
+            //dfjsdfjsdjkf
         System.out.println(student.toString());
     }
 
